@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/max-element-in-two-array.iml" filepath="$PROJECT_DIR$/max-element-in-two-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/max-min-element-in-two-array.iml" filepath="$PROJECT_DIR$/max-min-element-in-two-array.iml" />
     </modules>
   </component>
 </project>

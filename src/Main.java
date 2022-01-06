@@ -26,5 +26,14 @@ public class Main {
             }
         }
         System.out.println("Phần tử lớn nhất trong ma trận = " + max);
+        int min = arr[0][0];
+        for (int i = 0; i < row; i++) {
+            for (int j = 0; j < col; j++) {
+                if (arr[i][j] < min){
+                    min = arr[i][j];
+                }
+            }
+        }
+        System.out.println("Phần tử nhỏ nhất trong ma trận = " + min);
     }
 }
